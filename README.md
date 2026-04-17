@@ -9,7 +9,7 @@ Proyecto en Java que implementa el método de eliminación de Gauss usando Progr
 * Arquitecto: Alexis
 * Desarrollo: Equipo
 
-## 🎯 Objetivo
+## Objetivo
 
 Resolver sistemas de ecuaciones lineales comenzando con matrices 3x3 y escalando a NxN.
 
